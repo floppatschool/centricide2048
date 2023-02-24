@@ -11,7 +11,7 @@ body {
 
 body {
     margin: 40px 0;
-    margin-bottom: 20px;
+    
 }
 
 .heading:after {
@@ -671,6 +671,7 @@ hr {
     display: block;
     text-align: center;
     float: right;
+    margin-top: 20px;
 }
 
 .game-explanation {

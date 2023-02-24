@@ -11,6 +11,7 @@ body {
 
 body {
     margin: 40px 0;
+    margin-bottom: 20px;
 }
 
 .heading:after {
